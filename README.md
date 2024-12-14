@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE: 14-12-2024
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,23 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-14 105635](https://github.com/user-attachments/assets/067f6715-1511-47f0-82f7-c8c19b39ae6c)
+![Screenshot 2024-12-14 105653](https://github.com/user-attachments/assets/9dde1103-4f28-4cd6-8a2a-8eed992367d1)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+![Screenshot 2024-12-14 105712](https://github.com/user-attachments/assets/d81b33cb-b933-4700-a1d7-e69d89380fb4)
+![Screenshot 2024-12-14 105726](https://github.com/user-attachments/assets/2df89a20-ea09-48ce-ae10-a8f1dea8721a)
+
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![Screenshot 2024-12-14 105738](https://github.com/user-attachments/assets/42c37e07-72b4-4f18-b77d-461b5b428412)
+![Screenshot 2024-12-14 105748](https://github.com/user-attachments/assets/0a657f39-166c-468e-a0fe-ae02eb99d9ab)
 
-## Output:
 
-### Name:
-### Register Number:
+### Name:SAM CHRIS M
+### Register Number:24004124
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
