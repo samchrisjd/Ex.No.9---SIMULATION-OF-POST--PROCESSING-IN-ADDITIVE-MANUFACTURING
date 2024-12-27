@@ -34,21 +34,36 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![WhatsApp Image 2024-12-19 at 18 34 29_eba1fb25](https://github.com/user-attachments/assets/e6156557-9063-411f-8f48-4d2f8a02a60d)
+
+
+![WhatsApp Image 2024-12-19 at 18 34 29_c995bc09](https://github.com/user-attachments/assets/5fe91a14-9b91-47f9-abbd-f359afdb7ef0)
+
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![WhatsApp Image 2024-12-19 at 18 34 29_eefb4cb7](https://github.com/user-attachments/assets/b8d9bbf5-b146-4101-bc6d-553f310cfe43)
+
+
+![WhatsApp Image 2024-12-19 at 18 34 30_f509b128](https://github.com/user-attachments/assets/69e9279e-99d1-426c-96c2-65ead39ea3eb)
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+
+![WhatsApp Image 2024-12-19 at 18 34 30_460b8ef3](https://github.com/user-attachments/assets/39702c94-9412-4898-9362-b342a69cc386)
+
+
+
+![WhatsApp Image 2024-12-19 at 18 34 31_b8144130](https://github.com/user-attachments/assets/a3cb430e-4fb4-47b9-82c5-325472724747)
+
+
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Muthu Poornima.P
+### Register Number:24006054
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
