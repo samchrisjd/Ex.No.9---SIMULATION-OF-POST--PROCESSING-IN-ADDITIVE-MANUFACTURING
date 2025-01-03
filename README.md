@@ -32,21 +32,11 @@
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
 ## OUTPUT :
-
-## Support Removal Process
-![Screenshot 2024-12-14 105635](https://github.com/user-attachments/assets/067f6715-1511-47f0-82f7-c8c19b39ae6c)
-![Screenshot 2024-12-14 105653](https://github.com/user-attachments/assets/9dde1103-4f28-4cd6-8a2a-8eed992367d1)
-
-
-## UV Curing of 3D printed part
-![Screenshot 2024-12-14 105712](https://github.com/user-attachments/assets/d81b33cb-b933-4700-a1d7-e69d89380fb4)
-![Screenshot 2024-12-14 105726](https://github.com/user-attachments/assets/2df89a20-ea09-48ce-ae10-a8f1dea8721a)
+![Screenshot 2025-01-03 103456](https://github.com/user-attachments/assets/e87aa58b-4d6c-4245-a148-b6de7ef4e069)
+![Screenshot 2025-01-03 103512](https://github.com/user-attachments/assets/467dbe53-c482-4419-a021-1c36673c2c38)
+![Screenshot 2025-01-03 103527](https://github.com/user-attachments/assets/f619d273-2596-4233-97bf-cf9533f90463)
 
 
-
-## Heat Treatment of 3D printed part
-![Screenshot 2024-12-14 105738](https://github.com/user-attachments/assets/42c37e07-72b4-4f18-b77d-461b5b428412)
-![Screenshot 2024-12-14 105748](https://github.com/user-attachments/assets/0a657f39-166c-468e-a0fe-ae02eb99d9ab)
 
 
 ### Name:SAM CHRIS M
